@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tune-app/static/css/main.82b33559.css",
+    "main.js": "/Tune-app/static/js/main.4f95d620.js",
+    "index.html": "/Tune-app/index.html",
+    "main.82b33559.css.map": "/Tune-app/static/css/main.82b33559.css.map",
+    "main.4f95d620.js.map": "/Tune-app/static/js/main.4f95d620.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82b33559.css",
+    "static/js/main.4f95d620.js"
+  ]
+}
